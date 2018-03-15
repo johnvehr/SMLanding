@@ -1,0 +1,24 @@
+
+@import "materialize";
+
+body {
+  background-image: url('saw.jpeg') ;
+      background-position: center center;
+      background-repeat:  no-repeat;
+      background-attachment: fixed;
+      background-size:  cover;
+}
+.row{
+  height: 100%;
+  width:100%;
+}
+.saw{
+
+
+}
+.supply-left{
+  img{
+    text-align: center;
+    max-width:350px;
+  }
+}
